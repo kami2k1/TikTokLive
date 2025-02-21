@@ -1,0 +1,5 @@
+TikTokLive
+colorama
+gtts
+pydub
+pygame
